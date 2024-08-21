@@ -41,3 +41,4 @@ me.say_hi()
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd like to collaborate with anyone on an app or game, just have to be cool or practical</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
