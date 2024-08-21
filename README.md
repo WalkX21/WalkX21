@@ -1,5 +1,5 @@
 <h2> Hey guys, i'm mohammed  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenl3cm45MnBheWU0N29rZGhrNXV5MTh3cGEzM2pic3J2eXNoYnFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp)" width="230">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenl3cm45MnBheWU0N29rZGhrNXV5MTh3cGEzM2pic3J2eXNoYnFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp" width="230">
 
 ### 📫 Like to meet me?
 
