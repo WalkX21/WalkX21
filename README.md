@@ -3,7 +3,7 @@
 
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+If you wanna talk to me about anything you'd like (has to deal with development/codding) , pick a slot on my calendly right here 😉.
 
 <a href="https://calendly.com/mohammedbennani572/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
