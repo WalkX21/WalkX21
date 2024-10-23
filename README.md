@@ -40,18 +40,6 @@ me = Me()
 me.say_hi()
 ```
 
-## Memes that are relatable to me
-
-<table>
-  <tr>
-    <td><img src="https://github.com/WalkX21/read-me-memes/blob/f3b49659ec16585abe2624e3c4efd2a6e7656533/IMG_9323.jpg" width="200"></td>
-    <td><img src="https://github.com/WalkX21/read-me-memes/blob/f3b49659ec16585abe2624e3c4efd2a6e7656533/IMG_9324.jpg" width="200"></td>
-    <td><img src="https://github.com/WalkX21/read-me-memes/blob/f3b49659ec16585abe2624e3c4efd2a6e7656533/IMG_9325.jpg" width="200"></td>
-    <td><img src="https://github.com/WalkX21/read-me-memes/blob/f3b49659ec16585abe2624e3c4efd2a6e7656533/IMG_9328.jpg" width="200"></td>
-    <td><img src="https://github.com/WalkX21/read-me-memes/blob/f3b49659ec16585abe2624e3c4efd2a6e7656533/IMG_9329.jpg" width="200"></td>
-  </tr>
-
-</table>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd like to collaborate with anyone on an app or game, just have to be cool or practical</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
